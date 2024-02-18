@@ -52,8 +52,20 @@ section{
 }
 
 h2{
+
     margin-bottom: 10px;
 }
+.education ul{
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.experience {
+margin-bottom: 0;
+}
+.experience p{
+    margin: 0;
+    }
 
 .blogs-contact{
     display: flex;
